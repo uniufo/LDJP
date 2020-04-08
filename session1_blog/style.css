@@ -1,0 +1,126 @@
+body { font-family: Arial, Helvetica, sans-serif; }
+
+.container {
+    width: 800px;
+    margin: 0 auto; 
+}
+
+'
+body {margin:0px; padding:0px; }
+
+div {margin:0px; padding:0px; }
+h1 {margin:0px; padding:0px; }
+h2 {margin:0px; padding:0px; }
+h3 {margin:0px; padding:0px; }
+h4 {margin:0px; padding:0px; }
+h5 {margin:0px; padding:0px; }
+h6 {margin:0px; padding:0px; }
+p {margin:0px; padding:0px; }
+ul {margin:0px; padding:0px; }
+img {margin:0px; padding:0px; }
+
+#my_name h1 { 
+    padding-top: 20px;
+    padding-left: 20px; 
+    font-size: 30px; color: #e4dfdf; 
+    float: left; }
+
+#next_likelion h3 {font-size: 30px; color: #e4dfdf; }
+
+#next_likelion {
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px; 
+}
+
+ul#menu {
+    list-style: none; 
+    padding-top: 55px; 
+    padding-bottom: 50px
+}
+ 
+ul#menu li a {
+    font-size: 30px;
+    color: #676666;
+    text-decoration: none; 
+}
+
+ul#menu li {
+    float: left; 
+    padding-right: 105px;
+    padding-bottom: 105px;
+    width: 95px; 
+}
+
+h3{ 
+    padding-top: 90px;
+    font-size: 36px;
+    color: #015878; 
+}
+ 
+h3#content {
+    font-size: 24px;
+    color: #444444;
+}
+ 
+h4 {
+    padding-top: 60px;
+    font-size: 18px;
+    color: #373737;
+    font-weight: normal; 
+}
+ 
+p#content {
+    font-size: 14px;
+    color: #595858; 
+}
+ 
+h6#content {
+    font-size: 12px;
+    color: #373737; 
+}
+ 
+a#content {
+    color: #0f6c8d;
+    font-weight: bold;
+    text-decoration: none; 
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #ebe8e8; 
+}
+
+h3#content {
+    font-size: 36px;
+    color: #015878;
+    padding-top: 25px; 
+    padding-bottom: 20px; 
+}
+
+#content p {
+    font-size: 14px;
+    color: #595858;
+    padding-top: 20px; 
+}
+
+#hobby {
+    padding-top: 10px; 
+}
+ 
+#hobby h3 {
+    padding-bottom: 10px; 
+}
+ 
+#hobby p {
+    padding-top: 10px;
+    padding-bottom: 14px; 
+}
+
+#footer {
+    background: url(images/footer_slice.jpg) repeat-x;
+    padding-top: 20px;
+    padding-bottom:60px;
+    margin-top: 40px;
+    color: #fff; 
+}
