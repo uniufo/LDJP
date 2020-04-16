@@ -1,0 +1,191 @@
+
+body{
+    background-color: lightblue;
+    
+}
+
+
+
+div {
+color: yellow;
+margin: 20px;
+height: 50px;
+width: 50px;
+border: 1px solid yellow;
+background-color: orange;
+background-repeat: no-repeat;
+background-position: center;
+Background-size: cover;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+#big {
+    color: green;
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+    border: 1px solid yellow;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    Background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    }
+
+#big2{
+    color: green;
+    height: 1/3;
+    width: 100%;
+    border: 1px solid blueviolet;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    Background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+    }
+
+    #big3{
+        color: green;
+        height: 400px;
+        width: 400px;
+        border: 1px solid red;
+        background-color: black;
+        background-repeat: no-repeat;
+        background-position: center;
+        Background-size: cover;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        align-content: space-around;
+        flex-wrap: wrap;
+        }
+
+    #big4{
+        color: green;
+        height: 1/3;
+        width: 100%;
+        border: 1px solid red;
+            background-color: black;
+            background-repeat: no-repeat;
+            background-position: center;
+            Background-size: cover;
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            align-items: center;
+            align-content: space-around;
+            flex-wrap: wrap;
+        }
+               #big5{
+                    color: green;
+                    height: 1/3;
+                    width: 100%;
+                    border: 1px solid red;
+                    background-color: black;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    Background-size: cover;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-items: center;
+                    align-content: space-around;
+                    flex-wrap: wrap;
+                    } 
+                #big6{
+                    color: green;
+                    height: 1/3;
+                    width: 100%;
+                    border: 1px solid red;
+                    background-color: black;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    Background-size: cover;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: flex-end;
+                    align-items: center;
+                    align-content: space-around;
+                    flex-wrap: wrap;
+                    }
+  #big7{
+        color: green;
+        height: 400px;
+        width: 100%;
+        border: 1px solid red;
+        background-color: black;
+        background-repeat: no-repeat;
+        background-position: center;
+        Background-size: cover;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        align-content: space-around;
+        flex-wrap: nowrap;
+        }
+    
+        #big8{
+            color: green;
+            height: 400px;
+            width: 400px;
+            border: 1px solid red;
+            background-color: black;
+            background-repeat: no-repeat;
+            background-position: center;
+            Background-size: cover;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            align-content: flex-start;
+            flex-wrap: wrap;
+            }
+
+            #big9{
+                color: green;
+                height: 400px;
+                width: 400px;
+                border: 1px solid red;
+                background-color: black;
+                background-repeat: no-repeat;
+                background-position: center;
+                Background-size: cover;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                align-content: flex-end;
+                flex-wrap: wrap;
+                }
+
+                #big10{
+                    color: green;
+                    height: 900px;
+                    width: 400px;
+                    border: 1px solid red;
+                    background-color: black;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    Background-size: cover;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-items: center;
+                    align-content: stretch;
+                    flex-wrap: wrap;
+                    }
+
